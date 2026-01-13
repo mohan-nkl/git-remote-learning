@@ -5,3 +5,4 @@ Feature branch has been added.
 A conflicting change has been added.
 Change from teammate on feature1.
 Simulating a conflict across machines on the same branch.
+Conflicting change from teammate.
